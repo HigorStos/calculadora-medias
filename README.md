@@ -19,7 +19,7 @@ Neste projeto realizado em aula, pratiquei o uso de HTML, CSS e JavaScript, para
 - HTML
 - CSS
 
-## 📔 Aprendizados
+## 📝 Aprendizados
 
 - [x] Uso do DOM com JavaScript
 - [x] Uso de Arrays com JavaScript

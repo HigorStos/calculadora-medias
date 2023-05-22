@@ -11,7 +11,7 @@
 
 ## 💻 Projeto
 
-Neste projeto realizado em aula, pratiquei o uso de HTML, CSS e JavaScript, para a criação de uma calculadora de médias escolares.
+Neste projeto realizado em aula, pratiquei o uso de HTML, CSS e JavaScript, para a criação de uma Calculadora de Médias Escolares.
 
 ## 🚀 Tecnologias
 
@@ -21,5 +21,5 @@ Neste projeto realizado em aula, pratiquei o uso de HTML, CSS e JavaScript, para
 
 ## 📝 Aprendizados
 
-- [x] Uso do DOM com JavaScript
+- [x] Uso do DOM JavaScript
 - [x] Uso de Arrays com JavaScript
